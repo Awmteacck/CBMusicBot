@@ -11,9 +11,9 @@ with open("./etc/foreground.png", "wb") as file:
 
 bot = Bot(
     ":memory:",
-    API_ID,
-    API_HASH,
-    bot_token=BOT_TOKEN,
+    22658021,
+    6da533e7c45bc668182b5a0f5a4497dd,
+    bot_token=7740237222:AAEUJJBK7iLOMYTsox9epp7iG2unPQvYXmY,
     plugins=dict(root="handlers"),
 )
 
